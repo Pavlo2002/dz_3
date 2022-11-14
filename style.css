@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(255, 243, 227);
+}
+
+.box_1 {
+  height: 150px;
+  width: 400px;
+  border-style: dashed;
+  border-width: 3px;
+  border-color: red;
+  margin: 0 auto 0 auto;
+  background-color: rgb(100, 223, 100);
+}
+
+.box_2 {
+  height: 150px;
+  width: 400px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: red;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: rgb(64, 151, 108);
+}
+
+.box_3 {
+  height: 150px;
+  width: 400px;
+  outline: 10px red solid;
+  border-radius: 1, 5;
+  margin: 0 auto;
+  margin-top: 30px;
+  background-color: coral;
+}
+
+.box_4 {
+  height: 150px;
+  width: 400px;
+  border-left: 3px solid;
+  border-color: rgb(0, 0, 0);
+  margin: 0 auto;
+  margin-top: 30px;
+  background-color: rgba(230, 208, 242, 0.861);
+}
